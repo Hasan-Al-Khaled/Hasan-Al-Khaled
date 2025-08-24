@@ -48,19 +48,19 @@ ChatGPT | Gemini | AI-assisted test case generation
 
 ## 🏆 Featured Projects
 
-### 🛒 [E-Commerce Testing Suite](https://github.com/Hasan-Al-Khaled/SQA-Master-Portfolio)
+### 🛒 [E-Commerce Testing Suite](https://github.com/Hasan-Al-Khaled/SQA-Testing-Portfolio)
 Complete manual testing project with **50+ comprehensive test cases**, bug reports, and testing documentation for e-commerce functionality.
 
 **Tech Stack:** Manual Testing, JIRA, Test Case Design, Bug Reporting  
 **Highlights:** ✅ Login/Registration ✅ Product Search ✅ Cart Management ✅ Payment Flow
 
-### 🔌 [API Testing Framework](https://github.com/Hasan-Al-Khaled/SQA-Master-Portfolio)  
+### 🔌 [API Testing Framework](https://github.com/Hasan-Al-Khaled/SQA-Testing-Portfolio)
 Comprehensive API testing suite with Postman collections and Python automation scripts.
 
 **Tech Stack:** Postman, Newman, Python Requests, JSON Validation  
 **Highlights:** ✅ REST API Testing ✅ Automated Test Execution ✅ Detailed Reports
 
-### 🤖 [Web Automation Framework](https://github.com/Hasan-Al-Khaled/SQA-Master-Portfolio)
+### 🤖 [Web Automation Framework](https://github.com/Hasan-Al-Khaled/SQA-Testing-Portfolio)
 Selenium WebDriver automation framework with TestNG and Page Object Model implementation.
 
 **Tech Stack:** Selenium WebDriver, Java, TestNG, POM  
@@ -124,7 +124,7 @@ I'm a dedicated **Software QA Engineer** with expertise in **Manual Testing**, *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-hasan-al-khaled)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hasanalkhalednir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Hasan-Al-Khaled)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://github.com/Hasan-Al-Khaled/SQA-Master-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://github.com/Hasan-Al-Khaled/SQA-Testing-Portfolio)
 
 </div>
 
