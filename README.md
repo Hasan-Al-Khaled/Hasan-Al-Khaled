@@ -6,11 +6,15 @@
 
 ## 🛠️ Tech Stack & Skills
 
+
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-brightgreen?style=for-the-badge&logo=checkmarx)
 ![API Testing](https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman)
-![Automation Testing](https://img.shields.io/badge/Automation-Selenium-blue?style=for-the-badge&logo=selenium)
-![Database](https://img.shields.io/badge/Database-SQL-yellow?style=for-the-badge&logo=mysql)
+![Automation](https://img.shields.io/badge/Automation-Selenium-blue?style=for-the-badge&logo=selenium)
+![PyTest](https://img.shields.io/badge/PyTest-Framework-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/Database-SQL-critical?style=for-the-badge&logo=mysql)
 ![AI Testing](https://img.shields.io/badge/AI%20Powered-QA-purple?style=for-the-badge&logo=openai)
+
+---
 
 ### 🔍 **Manual Testing:** 
 Test Case Design | Bug Reporting & Tracking | JIRA | TestRail
@@ -32,17 +36,16 @@ ChatGPT | Gemini | AI-assisted test case generation
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Al-Khaled&show_icons=true&theme=tokyonight&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Al-Khaled&theme=tokyonight" height="160px"/>
+</p>  
 
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-Al-Khaled&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Al-Khaled&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Al-Khaled&layout=compact&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Al-Khaled&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
 ---
 
